@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating an arithmetic overflow bug and its solution. The bug involves adding 1 to a numeric field without checking for potential overflow, causing undefined behavior. The solution demonstrates proper error handling.
